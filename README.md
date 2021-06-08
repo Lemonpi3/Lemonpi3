@@ -17,9 +17,6 @@ I'm also interested in createing apps with React native and javascript.
 [![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/-HTML_5-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 
-### Currently learning
-[![Node.JS](https://img.shields.io/badge/-Node.JS-darkgreen?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![Tensorflow](https://img.shields.io/badge/-tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=101010)]()
 
 ### You can find me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AGUSTIN_Lehmann-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/agustin-lehmann-abaab41b1/)
