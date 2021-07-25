@@ -20,7 +20,6 @@ I'm also interested in createing apps with React native and javascript.
 
 ### You can find me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AGUSTIN_Lehmann-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/agustin-lehmann-abaab41b1/)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/lemoonpi3/)
 
 ### Contact me
 
