@@ -4,8 +4,9 @@
 
 I'm a Jr software developer.
 
-In 2020 i started my path with Unity3D, and while doing it I found out data science and got interestered in it.
-I'm also interested in createing apps with React native and javascript.
+I mainly work on Unity 2d/3d(I have 1 year of experience) and do React proyects form time to time. 
+
+I'm currently learning data science by myself and improveing my skills in Unity.
 
 ### Skills
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
@@ -19,10 +20,12 @@ I'm also interested in createing apps with React native and javascript.
 
 
 ### You can find me at
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AGUSTIN_Lehmann-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/agustin-lehmann-abaab41b1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AGUSTIN_Lehmann-101010?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/agustin-lehmann-abaab41b1/)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-AGUSTIN_Lehmann-101010?style=for-the-badge&logo=Kaggle&logoColor=white&labelColor=20BEFF)](https://www.kaggle.com/agustinlehmann)
 
 ### Contact me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](96.agustin.lehmann@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Main-101010?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](96.agustin.lehmann@gmail.com)
 
-[![Outlook](https://img.shields.io/badge/outlook-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=101010)](agustin_lehmann@live.com.ar)
+[![Outlook](https://img.shields.io/badge/outlook-Alternative-101010?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0077B5)](agustin_lehmann@live.com.ar)
