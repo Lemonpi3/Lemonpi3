@@ -4,9 +4,7 @@
 
 I'm a Jr software developer.
 
-I mainly work on Unity 2d/3d(I have 1 year of experience) and do React proyects form time to time. 
-
-I'm currently learning data science by myself and improveing my skills in Unity.
+I mainly work on Unity 2d/3d and Data Science projects.
 
 ### Skills
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
