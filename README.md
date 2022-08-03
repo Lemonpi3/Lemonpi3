@@ -20,7 +20,7 @@ I'm studying data science at the university of Buenos Aires. I like to design sy
 ### Python Libraries I use frecuently:
 Pandas, numpy, matplotlib, scikit-learn, TensorFlow, Telethon, discord, BS4.
 ### Data Science Portafolio
-[![PORTAFOLIO](https://img.shields.io/badge/Portafolio-101010?style=for-the-badge&logo=plotly&logoColor=white)](https://lemonpi3.github.io/Agustin_Portfolio/)
+[![PORTAFOLIO](https://img.shields.io/badge/Portafolio-0077B5?style=for-the-badge&logo=plotly&logoColor=white)](https://lemonpi3.github.io/Agustin_Portfolio/)
 ### You can find me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AGUSTIN_Lehmann-101010?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/agustin-lehmann-abaab41b1/)
 
