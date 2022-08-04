@@ -32,3 +32,5 @@ Pandas, numpy, matplotlib, scikit-learn, TensorFlow, Telethon, discord, BS4.
 [![Gmail](https://img.shields.io/badge/Gmail-Main-101010?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](96.agustin.lehmann@gmail.com)
 
 [![Outlook](https://img.shields.io/badge/outlook-Alternative-101010?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0077B5)](agustin_lehmann@live.com.ar)
+
+[![Telegram](https://img.shields.io/badge/Telegram-AGUSTIN_Lehmann-101010?style=for-the-badge&logo=telegram&logoColor=white&labelColor=blue)](https://t.me/AgustinLehmann)
