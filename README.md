@@ -9,14 +9,14 @@ Hi 👋, I'm Agustin Lehmann. Freelance Python and Unity programmer.
 Freelance Python and Unity programmer. I'm currently studying Data Science at the University of Buenos Aires and trying to get a job in the field of Data science.
 
 ### Skills
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Unity](https://img.shields.io/badge/-Unity-grey?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Unity](https://img.shields.io/badge/-Unity-grey?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/-C%23-purple?style=for-the-badge&logo=c%20sharp&logoColor=white&labelColor=101010)]()
-
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=101010)]()
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
-[![HTML5](https://img.shields.io/badge/-HTML_5-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![HTML5](https://img.shields.io/badge/-HTML_5-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 
 ### Python Libraries I use frecuently:
 Pandas, numpy, matplotlib, scikit-learn, TensorFlow, Telethon, discord, BS4.
