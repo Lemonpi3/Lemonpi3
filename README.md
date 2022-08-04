@@ -20,7 +20,7 @@ Freelance Python and Unity programmer. I'm currently studying Data Science at th
 
 ### Python Libraries I use frecuently:
 Pandas, numpy, matplotlib, scikit-learn, TensorFlow, Telethon, discord, BS4.
-### Data Science Portafolio
+### Portafolio
 [![PORTAFOLIO](https://img.shields.io/badge/Portafolio-0077B5?style=for-the-badge&logo=plotly&logoColor=white)](https://lemonpi3.github.io/portfolio/)
 ### You can find me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AGUSTIN_Lehmann-101010?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/agustin-lehmann-abaab41b1/)
