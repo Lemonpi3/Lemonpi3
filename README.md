@@ -1,19 +1,20 @@
 <h2 align="center">
-Hi 👋, I'm Agustin Lehmann. Self thought programmer
+Hi 👋, I'm Agustin Lehmann. Freelance Python and Unity programmer.
 </h2>
 
 [![Lemonpi3's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonpi3&layout=compact&theme=gotham)](https://github.com/lemonpi3/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonpi3&layout=compact&theme=gotham)](https://github.com/lemonpi3/github-readme-stats)
 
-I'm studying data science at the university of Buenos Aires. I like to design systems for games in Unity as well as working on Data science proyects and build tools to automate things. I'm pro efficient in python and Unity, I understand HTML5 and CSS (more from a webscrapeing prespective but i can do my own things with them) and I also have basic knowledge of React and SQL(querry)
+Freelance Python and Unity programmer. I'm currently studying Data Science at the University of Buenos Aires and trying to get a job in the field of Data science.
+
 ### Skills
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Unity](https://img.shields.io/badge/-Unity-grey?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/-C%23-purple?style=for-the-badge&logo=c%20sharp&logoColor=white&labelColor=101010)]()
 
-[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/-HTML_5-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 
